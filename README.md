@@ -7,6 +7,7 @@
 * [AWS Certified Solutions Architect - Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2018-11-17&ci=AWS00525464)
 * [Certified Kubernetes Administrator](https://www.youracclaim.com/badges/2ec925a3-7828-445c-bc33-d80f3b891fae/public_url)
 * [Certified Kubernetes Application Developer](https://www.credly.com/badges/92e2c9fb-03fd-45e5-82b9-843bb8847aa7)
+* [Certified Kubernetes Security Specialist]()
 
 # Education
 * Yokohama National University, Bachelor of Liberal Arts, 2008.4 -- 2012.3
@@ -23,11 +24,13 @@
   * Software engineer of EC [buyma.com](https://www.buyma.com/)
   * Search developer
   * Architecture
-* Supership (2018.06 ~ current)
+* Supership (2018.06 ~ 2020.11)
   * Search engineer / Infrastructure
   * desin inside search middleware for business
   * search platform [s4](https://www.s4p.jp/) developer
   * 2018 Be Super Award Data Tech Section MVT(Toyota Business Analysis Infrastructure Project)
+* Fukuoka Financial Group(2020.12 ~ current)
+  * SRE 
 
 # Personal Projects
 * [Gem: TrieSuggest](https://rubygems.org/gems/trie_suggest)
