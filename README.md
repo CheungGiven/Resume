@@ -64,6 +64,8 @@
   * Docker
   * Kubernetes
     * [Certified Kubernetes Administrator](https://www.youracclaim.com/badges/2ec925a3-7828-445c-bc33-d80f3b891fae/public_url)
+    * [Certified Kubernetes Application Developer](https://www.credly.com/badges/92e2c9fb-03fd-45e5-82b9-843bb8847aa7)
+    * [Certified Kubernetes Security Specialist]()
 * Other
   * Git
   * Chef
