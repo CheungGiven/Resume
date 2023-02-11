@@ -5,7 +5,7 @@
 * github: [cheungYX](https://github.com/cheungYX)
 * linkedin: [張逸莘](https://jp.linkedin.com/in/逸しん-張-93b877141)
 * [AWS Certified Solutions Architect - Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2018-11-17&ci=AWS00525464)
-* [Google Cloud Professional Cloud Architect](https://www.credential.net/3b5d3f54-b419-4fec-8ef1-e2f054b22534)
+* [Google Cloud Professional Cloud Architect]([https://www.credential.net/3b5d3f54-b419-4fec-8ef1-e2f054b22534](https://www.credential.net/3b5d3f54-b419-4fec-8ef1-e2f054b22534?key=a0f0ca285c0baa1bd0e0691a1a4617fdd296afe48d5d129fc2aa302293326839))
 * [Kubernetes and Cloud Native Associate]()
 * [Certified Kubernetes Application Developer](https://www.credly.com/badges/92e2c9fb-03fd-45e5-82b9-843bb8847aa7)
 * [Certified Kubernetes Administrator](https://www.youracclaim.com/badges/2ec925a3-7828-445c-bc33-d80f3b891fae/public_url)
