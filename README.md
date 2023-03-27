@@ -6,7 +6,7 @@
 * linkedin: [張逸莘](https://jp.linkedin.com/in/逸しん-張-93b877141)
 * [AWS Certified Solutions Architect - Associate](https://www.credly.com/earner/earned/badge/53cebc9a-c7a4-49bd-be09-f1f146002d26)
 * [Google Cloud Professional Cloud Architect](https://www.credential.net/3b5d3f54-b419-4fec-8ef1-e2f054b22534?key=a0f0ca285c0baa1bd0e0691a1a4617fdd296afe48d5d129fc2aa302293326839)
-* [Kubernetes and Cloud Native Associate]()
+* [Kubernetes and Cloud Native Associate](https://www.credly.com/badges/60286bb6-263d-424b-8b30-b049a74b688f)
 * [Certified Kubernetes Application Developer](https://www.credly.com/badges/92e2c9fb-03fd-45e5-82b9-843bb8847aa7)
 * [Certified Kubernetes Administrator](https://www.youracclaim.com/badges/2ec925a3-7828-445c-bc33-d80f3b891fae/public_url)
 * [Certified Kubernetes Security Specialist]()
