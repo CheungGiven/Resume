@@ -9,7 +9,7 @@
 * [Kubernetes and Cloud Native Associate](https://www.credly.com/badges/60286bb6-263d-424b-8b30-b049a74b688f)
 * [Certified Kubernetes Application Developer](https://www.credly.com/badges/92e2c9fb-03fd-45e5-82b9-843bb8847aa7)
 * [Certified Kubernetes Administrator](https://www.youracclaim.com/badges/2ec925a3-7828-445c-bc33-d80f3b891fae/public_url)
-* [Certified Kubernetes Security Specialist]()
+* [Certified Kubernetes Security Specialist](https://www.credly.com/earner/earned/badge/dce9226f-435c-4697-8172-010087d9ce57)
 * [FinOps Certified Practitioner]()
 
 # Education
