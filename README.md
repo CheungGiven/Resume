@@ -10,7 +10,7 @@
 * [Certified Kubernetes Application Developer](https://www.credly.com/badges/92e2c9fb-03fd-45e5-82b9-843bb8847aa7)
 * [Certified Kubernetes Administrator](https://www.youracclaim.com/badges/2ec925a3-7828-445c-bc33-d80f3b891fae/public_url)
 * [Certified Kubernetes Security Specialist](https://www.credly.com/earner/earned/badge/dce9226f-435c-4697-8172-010087d9ce57)
-* [FinOps Certified Practitioner]()
+* [FinOps Certified Practitioner](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/f99aa4c6-6825-5197-9b77-43852c170b5d-yixin-zhang-77c13314-9d71-4b6a-9aa0-28520f71e14f-certificate.pdf)
 
 # Education
 * Yokohama National University, Bachelor of Liberal Arts, 2008.4 -- 2012.3
